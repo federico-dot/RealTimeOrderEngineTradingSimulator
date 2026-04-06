@@ -168,17 +168,6 @@ java Main
 	•	Persistenza dati (JSON/CSV)
 	•	Dashboard grafica
 
-⸻
-
-💡 Perché Questo Progetto è Rilevante
-
-Dimostra concretamente:
-	•	Concurrency reale (non teorica)
-	•	Scelte architetturali consapevoli
-	•	Ottimizzazione delle performance
-	•	Modellazione di un dominio complesso
-
-È un esempio pratico di sistema vicino a quelli usati in ambienti di high-frequency trading.
 
 ⸻
 
